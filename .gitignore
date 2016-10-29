@@ -1,6 +1,4 @@
-# exclude everything except directory Master theses
-    /*
-    !/Master theses
-
 # exclue all temp files created by microsoft word
-    *.tmp
+*.tmp
+\~$* 
+    
