@@ -11,3 +11,5 @@ etc
 
 since PLE is aplicable to all devices it is important to take that into considerration when studying adoption
 
+
+here is the line I want to cause the conflict
