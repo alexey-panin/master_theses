@@ -16,3 +16,4 @@ here is the line I want to cause the conflict
 here is the line in test branch
 
 here is 1 line on master after merge
+here is 2 line on master after merge
