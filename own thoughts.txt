@@ -12,5 +12,9 @@ etc
 since PLE is aplicable to all devices it is important to take that into considerration when studying adoption
 
 
+here is the line I want to cause the conflict
 here is the line in test branch
 here is the line in test branch after the first merge
+
+here is 1 line on master after merge
+here is 2 line on master after merge
