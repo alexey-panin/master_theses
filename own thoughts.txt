@@ -11,6 +11,4 @@ etc
 
 since PLE is aplicable to all devices it is important to take that into considerration when studying adoption
 
-
-line 1 on master
-line on test branch
+line on master
